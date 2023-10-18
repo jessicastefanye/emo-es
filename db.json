@@ -1,16 +1,42 @@
 {
-  "posts":[
+  "Professores": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "nome": "Severus Snape",
+      "Disciplina": "Poções",
+      "Perfil": "Professor."
+    },
+    {
+      "id": 2,
+      "nome": "Minerva McGonagall",
+      "Disciplina": "Transfiguração",
+      "Perfil": "Professor."
+    },
+    {
+      "id": 3,
+      "nome": "Albus Dumbledore",
+      "Disciplina": "Feitiços",
+      "Perfil": "Diretor."
     }
   ],
-  "comments" : [
+  "Alunos": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 1,
+      "nome": "Harry Potter",
+      "disciplina": "Defesa Contra as Artes das Trevas",
+      "perfil": "Aluno."
+    },
+    {
+      "id": 2,
+      "nome": "Hermione Granger",
+      "disciplina": "Feitiços",
+      "perfil": "Aluno."
+    },
+    {
+      "id": 3,
+      "nome": "Ron Weasley",
+      "disciplina": "Xadrez de Bruxo",
+      "perfil": "aluno."
     }
   ]
 }
