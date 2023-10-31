@@ -26,22 +26,19 @@
     {
       "id": 1,
       "nome": "Harry Potter",
-      "disciplina": "Defesa Contra as Artes das Trevas",
-      "perfil": "Aluno.",
+      "turma": "Defesa Contra as Artes das Trevas",
        "Status": true
     },
     {
       "id": 2,
       "nome": "Hermione Granger",
-      "disciplina": "Feitiços",
-      "perfil": "Aluno.",
+      "turma": "Feitiços",
        "Status": true
     },
     {
       "id": 3,
       "nome": "Ron Weasley",
-      "disciplina": "Xadrez de Bruxo",
-      "perfil": "aluno.",
+      "turma": "Xadrez de Bruxo",
        "status": true
     }
   ]
